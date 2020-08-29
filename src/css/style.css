@@ -550,6 +550,7 @@ footer .icon {
     width: calc((100% - 60px) / 3);
     margin-right: 30px;
     margin-bottom: 30px;
+    transition: 0.3s all;
 } 
 
 .project-item:nth-child(3n) {
